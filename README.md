@@ -19,7 +19,6 @@ This Chess Engine uses the Minimax algorithm, a decision-making algorithm used f
 Project is created with:
 
 * JavaScript ES6
-* Node.js v14.15.1 or above
 
 ## Setup
 
